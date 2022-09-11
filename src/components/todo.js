@@ -78,7 +78,7 @@ const Todo = () => {
       <div className="main-div">
         <div className="child-div">
           <figure>
-            <img src="to-do-list-.jpg" alt="todologo" />
+            <img src="https://logos.flamingtext.com/City-Logos/Todo-Logo.png" alt="todologo" />
             <figcaption>Add Your List Here ✌</figcaption>
           </figure>
           <div className="addItems">

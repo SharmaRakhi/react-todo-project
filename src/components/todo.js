@@ -120,7 +120,7 @@ const Todo = () => {
               className="btn effect04"
               data-sm-link-text="Remove All"
               onClick={removeAll}>
-              <span> CHECK LIST</span>
+              <span> REMOVE ALL</span>
             </button>
           </div>
         </div>
